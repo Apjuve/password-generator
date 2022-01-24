@@ -1,1 +1,2 @@
 # Password Generator Starter Code
+In order to begin generating passwords you must first click the generate password button. After you click a series of alerts pop up and you must select which type of characters you would like in your password. Once this is completed your password will appear in the text field and you then can copy and paste in order to use as you wish.
